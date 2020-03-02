@@ -14,6 +14,7 @@ Code for "A-TVSNet: Aggregated Two-View Stereo Network forMulti-View Stereo Dept
 * Extract ```model.zip``` to ```model``` folder
 * Run example
     ```bash 
+    cd atvsnet
     python example.py
     ```
 
@@ -30,5 +31,6 @@ Code for "A-TVSNet: Aggregated Two-View Stereo Network forMulti-View Stereo Dept
     ```
 * Produce point cloud
     ```bash 
+    cd atvsnet
     ./reproduce_pc.sh
     ```
