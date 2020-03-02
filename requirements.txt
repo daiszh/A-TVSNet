@@ -1,0 +1,9 @@
+tensorflow-gpu==1.5
+opencv-python>=3.4.3
+numpy>=1.15
+matplotlib>=2.2.3
+XlsxWriter>=1.2.2
+six>=1.11.0
+scipy>=1.1
+imageio>=2.4.1
+tqdm>=4.28
