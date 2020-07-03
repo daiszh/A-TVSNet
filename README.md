@@ -1,6 +1,16 @@
 ## A-TVSNet
 Code for "A-TVSNet: Aggregated Two-View Stereo Network for Multi-View Stereo Depth Estimation"
 
+If you find this code useful in your research, please consider citing:
+```
+@article{dai2020tvsnet,
+  title={A-TVSNet: Aggregated Two-View Stereo Network for Multi-View Stereo Depth Estimation},
+  author={Dai, Sizhang and Huang, Weibing},
+  journal={arXiv preprint arXiv:2003.00711},
+  year={2020}
+}
+```
+
 ## Enviroment
 
 * Ubuntu 16.04
